@@ -1,0 +1,233 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: spYouTube\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Sebastian Klaus <sk@hdnet.de>\n"
+"Language-Team: jaskakj <jaakko@kangosjarvi.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Finnish\n"
+"X-Poedit-Country: FINLAND\n"
+
+#: hdYouTube.php:233
+#: hdYouTube.php:252
+msgid "VideoID is empty"
+msgstr "VideoID on tyhj&auml;"
+
+#: hdYouTube.php:258
+msgid "Username is empty"
+msgstr "K&auml;ytt&auml;j&auml;tunnus on tyhj&auml;"
+
+#: hdYouTube.php:402
+msgid "Rating your own videos is not permitted."
+msgstr "Et voi pisteytt&auml;&auml; omia videoitasi."
+
+#: media-upload.php:4
+#: spYouTube.php:76
+msgid "spYouTube"
+msgstr "spYouTube"
+
+#: media-upload.php:35
+msgid "Insert"
+msgstr "Liit&auml;"
+
+#: spYouTube.php:70
+msgid "Rating could only be shown for your own videos"
+msgstr "Voit n&auml;ytt&auml;&auml; vain omien videoidesi pisteet."
+
+#: spYouTube.php:74
+msgid "YouTube"
+msgstr "YouTube"
+
+#: spYouTube.php:77
+#: spYouTube.php:127
+msgid "Manage videos"
+msgstr "Videoiden hallinta"
+
+#: spYouTube.php:78
+#: spYouTube.php:273
+#: spYouTube.php:325
+msgid "Upload video"
+msgstr "Videon lataus"
+
+#: spYouTube.php:79
+#: spYouTube.php:341
+msgid "Settings"
+msgstr "Asetukset"
+
+#: spYouTube.php:91
+msgid "Video deleted"
+msgstr "Video poistettu"
+
+#: spYouTube.php:93
+msgid "Video could not be deleted. Reason: "
+msgstr "Videota ei voi poistaa. Syy: "
+
+#: spYouTube.php:117
+msgid "Video edited"
+msgstr "Videota muokattu"
+
+#: spYouTube.php:128
+msgid "Upload new video"
+msgstr "Lataa uusi video"
+
+#: spYouTube.php:133
+msgid "Screenshot"
+msgstr "Kuvakaappaus"
+
+#: spYouTube.php:134
+#: spYouTube.php:295
+msgid "Title"
+msgstr "Otsikko"
+
+#: spYouTube.php:135
+#: spYouTube.php:278
+msgid "Category"
+msgstr "Aihe"
+
+#: spYouTube.php:136
+#: spYouTube.php:302
+msgid "Description"
+msgstr "Kuvaus"
+
+#: spYouTube.php:137
+#: spYouTube.php:308
+#: templates/default.php:11
+msgid "Tags"
+msgstr "Avainsanat"
+
+#: spYouTube.php:138
+#: templates/default.php:9
+msgid "Duration"
+msgstr "Kesto"
+
+#: spYouTube.php:139
+#: templates/default.php:10
+msgid "Comments"
+msgstr "Kommentit"
+
+#: spYouTube.php:140
+msgid "Rating"
+msgstr "Pisteet"
+
+#: spYouTube.php:141
+#: templates/default.php:12
+msgid "Updated"
+msgstr "P&auml;ivitetty"
+
+#: spYouTube.php:190
+msgid "ratings"
+msgstr "Pisteet"
+
+#: spYouTube.php:194
+msgid "View"
+msgstr "Katsele"
+
+#: spYouTube.php:195
+msgid "Edit"
+msgstr "Muokkaa"
+
+#: spYouTube.php:196
+msgid "Delete"
+msgstr "Poista"
+
+#: spYouTube.php:201
+msgid "Edit video"
+msgstr "Muokkaa videota"
+
+#: spYouTube.php:202
+msgid "Cancel editing"
+msgstr "Peru muokkaus"
+
+#: spYouTube.php:213
+msgid "Embedding"
+msgstr "Liit&auml; merkint&auml;&auml;n"
+
+#: spYouTube.php:214
+msgid "Embed video"
+msgstr "Liit&auml; video"
+
+#: spYouTube.php:215
+#: spYouTube.php:218
+msgid "Optional parameter"
+msgstr "Lis&auml;asetukset"
+
+#: spYouTube.php:217
+msgid "Embed all videos"
+msgstr "Liit&auml; kaikki videot"
+
+#: spYouTube.php:262
+msgid "Video successfully committed"
+msgstr "Video liitetty"
+
+#: spYouTube.php:268
+msgid "ClientID or Developer Key empty. Please check your settings. Without these, you can not upload any video."
+msgstr "AsiakasID tai Kehitt&auml;j&auml;n avain on tyhj&auml;. Ole hyv&auml; ja tarkista asetuksesi. Ilman n&auml;it&auml; tunnuksia et voi ladata videoita. "
+
+#: spYouTube.php:291
+msgid "Select your category"
+msgstr "Valitse aihe"
+
+#: spYouTube.php:298
+msgid "Title of the video"
+msgstr "Videon otsikko"
+
+#: spYouTube.php:311
+msgid "Tags (comma sperated)"
+msgstr "Avainsanat (erota pilkulla)"
+
+#: spYouTube.php:315
+#: spYouTube.php:318
+msgid "Your video"
+msgstr "Omat videot"
+
+#: spYouTube.php:328
+msgid "Uploading... Please wait"
+msgstr "Ladataan... Ole hyv&auml; ja odota"
+
+#: spYouTube.php:328
+msgid "Cancel"
+msgstr "Peru"
+
+#: spYouTube.php:337
+msgid "Settings saved"
+msgstr "Asetukset tallennettu"
+
+#: spYouTube.php:346
+msgid "YouTube username"
+msgstr "YouTube-k&auml;ytt&auml;j&auml;tunnus"
+
+#: spYouTube.php:349
+msgid "Your username for YouTube"
+msgstr "K&auml;ytt&auml;j&auml;tunnuksesi YouTube-palveluun"
+
+#: spYouTube.php:353
+msgid "YouTube password"
+msgstr "YouTube-salasana"
+
+#: spYouTube.php:356
+msgid "Your password for YouTube"
+msgstr "Salasanasi YouTube-palveluun"
+
+#: spYouTube.php:360
+msgid "Google Client ID"
+msgstr "Google Asiakas-ID"
+
+#: spYouTube.php:363
+msgid "No Client ID yet? Get it here:"
+msgstr "Ei viel&auml; Asiakas-ID:t&auml;? Klikkaa t&auml;h&auml;n:"
+
+#: spYouTube.php:367
+msgid "Google developer ID"
+msgstr "Google Kehitt&auml;j&auml;-ID"
+
+#: spYouTube.php:370
+msgid "No developer ID yet? Get it here:"
+msgstr "Ei viel&auml; Kehitt&auml; j&auml;-ID:t&auml;? Klikkaa t&auml;h&auml;n: "
+
+#: spYouTube.php:376
+msgid "Save Changes"
+msgstr "Tallenna muutokset"
+

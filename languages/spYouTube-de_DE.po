@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Sebastian Klaus <sk@hdnet.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: hdYouTube.php:233
+#: hdYouTube.php:252
+msgid "VideoID is empty"
+msgstr "VideoID ist leer"
+
+#: hdYouTube.php:258
+msgid "Username is empty"
+msgstr "Username ist leer"
+
+#: hdYouTube.php:402
+msgid "Rating your own videos is not permitted."
+msgstr "Du kannst nicht deine eigenen Videos bewerten"
+
+#: media-upload.php:4
+#: spYouTube.php:76
+msgid "spYouTube"
+msgstr ""
+
+#: media-upload.php:34
+msgid "Search YouTube"
+msgstr "YouTube durchsuchen"
+
+#: media-upload.php:35
+msgid "Insert"
+msgstr "Einf&uuml;gen"
+
+#: media-upload.php:36
+msgid "Search"
+msgstr "Suchen"
+
+#: media-upload.php:40
+msgid "Cancel search"
+msgstr "Suche abbrechen"
+
+#: media-upload.php:57
+msgid "Results for"
+msgstr "Ergebnisse f&uuml;r"
+
+#: media-upload.php:80
+msgid "Details"
+msgstr "Details"
+
+#: spYouTube.php:70
+msgid "Rating could only be shown for your own videos"
+msgstr "Bewertung kann nur bei den eigenen Videos angezeigt werden"
+
+#: spYouTube.php:74
+msgid "YouTube"
+msgstr ""
+
+#: spYouTube.php:77
+#: spYouTube.php:127
+msgid "Manage videos"
+msgstr "Videos verwalten"
+
+#: spYouTube.php:78
+#: spYouTube.php:273
+#: spYouTube.php:325
+msgid "Upload video"
+msgstr "Video hochladen"
+
+#: spYouTube.php:79
+#: spYouTube.php:341
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: spYouTube.php:91
+msgid "Video deleted"
+msgstr "Video gel&ouml;scht"
+
+#: spYouTube.php:93
+msgid "Video could not be deleted. Reason: "
+msgstr "Kann Video aus folgendem Grund nicht l&ouml;schen:"
+
+#: spYouTube.php:117
+msgid "Video edited"
+msgstr "Video editiert"
+
+#: spYouTube.php:128
+msgid "Upload new video"
+msgstr "Neues Video hochladen"
+
+#: spYouTube.php:133
+msgid "Screenshot"
+msgstr "Ausschnitt"
+
+#: spYouTube.php:134
+#: spYouTube.php:295
+msgid "Title"
+msgstr "Titel"
+
+#: spYouTube.php:135
+#: spYouTube.php:278
+msgid "Category"
+msgstr "Kategorie"
+
+#: spYouTube.php:136
+#: spYouTube.php:302
+msgid "Description"
+msgstr "Beschreibung"
+
+#: spYouTube.php:137
+#: spYouTube.php:308
+#: templates/default.php:11
+msgid "Tags"
+msgstr "Schlagworte"
+
+#: spYouTube.php:138
+#: templates/default.php:9
+msgid "Duration"
+msgstr "L&auml;nge"
+
+#: spYouTube.php:139
+#: templates/default.php:10
+msgid "Comments"
+msgstr "Kommentare"
+
+#: spYouTube.php:140
+msgid "Rating"
+msgstr "Bewertung"
+
+#: spYouTube.php:141
+#: templates/default.php:12
+msgid "Updated"
+msgstr "Aktualisiert"
+
+#: spYouTube.php:190
+msgid "ratings"
+msgstr "Bewertungen"
+
+#: spYouTube.php:194
+msgid "View"
+msgstr "Ansehen"
+
+#: spYouTube.php:195
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: spYouTube.php:196
+msgid "Delete"
+msgstr "L&ouml;schen"
+
+#: spYouTube.php:201
+msgid "Edit video"
+msgstr "Bearbeiten"
+
+#: spYouTube.php:202
+msgid "Cancel editing"
+msgstr "Abbrechen"
+
+#: spYouTube.php:213
+msgid "Embedding"
+msgstr "Anzeige"
+
+#: spYouTube.php:214
+msgid "Embed video"
+msgstr "Video anzeigen"
+
+#: spYouTube.php:215
+#: spYouTube.php:218
+msgid "Optional parameter"
+msgstr "Optionale Parameter"
+
+#: spYouTube.php:217
+msgid "Embed all videos"
+msgstr "Alle Videos anzeigen"
+
+#: spYouTube.php:262
+msgid "Video successfully committed"
+msgstr "Video erfolgreich hochgeladen"
+
+#: spYouTube.php:268
+msgid "ClientID or Developer Key empty. Please check your settings. Without these, you can not upload any video."
+msgstr "ClientID oder Developer Key ist leer. Bitte Einstellungen pr&uuml;fen. Ohne ist ein Upload von Videos nicht m&ouml;glich"
+
+#: spYouTube.php:291
+msgid "Select your category"
+msgstr "Kategorie w&auml;hlen"
+
+#: spYouTube.php:298
+msgid "Title of the video"
+msgstr "Title des Videos"
+
+#: spYouTube.php:311
+msgid "Tags (comma sperated)"
+msgstr "Schlagworte (Komma-seperiert)"
+
+#: spYouTube.php:315
+#: spYouTube.php:318
+msgid "Your video"
+msgstr "Dein Video"
+
+#: spYouTube.php:328
+msgid "Uploading... Please wait"
+msgstr "Hochladen... Bitte warten"
+
+#: spYouTube.php:328
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: spYouTube.php:337
+msgid "Settings saved"
+msgstr "Einstellungen gespeichert"
+
+#: spYouTube.php:346
+msgid "YouTube username"
+msgstr "YouTube Benutzername"
+
+#: spYouTube.php:349
+msgid "Your username for YouTube"
+msgstr "Dein Benutzername bei YouTube"
+
+#: spYouTube.php:353
+msgid "YouTube password"
+msgstr "YouTube Passwort"
+
+#: spYouTube.php:356
+msgid "Your password for YouTube"
+msgstr "Dein Passwort bei YouTube"
+
+#: spYouTube.php:360
+msgid "Google Client ID"
+msgstr "Google Client ID"
+
+#: spYouTube.php:363
+msgid "No Client ID yet? Get it here:"
+msgstr "Noch keine Client ID? Klick hier:"
+
+#: spYouTube.php:367
+msgid "Google developer ID"
+msgstr "Google Developer ID"
+
+#: spYouTube.php:370
+msgid "No developer ID yet? Get it here:"
+msgstr "Noch keine Developer ID? Klick hier:"
+
+#: spYouTube.php:376
+msgid "Save Changes"
+msgstr "&Auml;nderungen speichern"
+
